@@ -1,1 +1,2 @@
-ad:0;url:http://www.mobeedom.com
+ad=0
+url=http://www.mobeedom.com
