@@ -1,2 +1,2 @@
 ad=0
-url=http://www.mobeedom.com
+url=https://play.google.com/store/apps/details?id=com.mobeedom.android.justinstalled
