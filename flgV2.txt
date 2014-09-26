@@ -5,3 +5,5 @@ launch_cnt_before_ads=50
 help_url=https://www.youtube.com/watch?v=nucEEKDC67w
 please_action=0
 msg=
+xpath_google=//a[@class='document-subtitle category']/span
+xpath_amazon=//span[@class='zg_hrsr_ladder']/b/a
