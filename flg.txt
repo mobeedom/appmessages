@@ -1,2 +1,2 @@
-ad=0
+ad=1
 url=market://details?id=com.mobeedom.android.justinstalled
