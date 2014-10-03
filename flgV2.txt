@@ -1,4 +1,4 @@
-ad=0
+ad=1
 url=http://www.mobeedom.com
 force_update=38
 launch_cnt_before_ads=50
@@ -7,7 +7,10 @@ please_action=0
 msg=
 url_google=https://play.google.com/store/apps/details?id=%s&hl=%s
 xpath_google=//a[@class='document-subtitle category']/span
+css_google=.document-subtitle.category>span
 url_amazon=http://www.amazon.%s/gp/mas/dl/android?p=%s
 xpath_amazon=//span[@class='zg_hrsr_ladder']/b/a
+css_amazon=.zg_hrsr_ladder>b>a
 url_samsung=http://www.samsungapps.com/appquery/appDetail.as?appId=%s
 xpath_samsung=//ul[@class='sjui_lnb_recomsub active']/li/a[@class='active']
+css_samsung=.active
