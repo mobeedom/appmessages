@@ -1,4 +1,4 @@
-ad=1
+ad=0
 url=http://www.mobeedom.com
 force_update=38
 launch_cnt_before_ads=50
