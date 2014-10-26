@@ -1,13 +1,13 @@
 ad=0
 interstitials=0
-url=http://www.mobeedom.com
-force_update=38
-launch_cnt_before_ads=50
-launch_cnt_before_interstitials=100
+launch_cnt_before_ads=10
+launch_cnt_before_interstitials=30
 interstitials_freq=10
-help_url=https://www.youtube.com/watch?v=nucEEKDC67w
+force_update=38
 please_action=0
 msg=
+help_url=https://www.youtube.com/watch?v=nucEEKDC67w
+url=http://www.mobeedom.com
 url_google=https://play.google.com/store/apps/details?id=%s&hl=%s
 xpath_google=//a[@class='document-subtitle category']/span
 css_google=.document-subtitle.category>span
