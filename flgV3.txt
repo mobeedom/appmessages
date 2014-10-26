@@ -1,7 +1,8 @@
-ad=0
+ad=1
 interstitials=1
 launch_cnt_before_ads=10
-launch_cnt_before_interstitials=5
+launch_cnt_before_interstitials=20
+days_before_interstitials=0
 interstitials_freq=5
 force_update=38
 please_action=0
