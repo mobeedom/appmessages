@@ -1,0 +1,4 @@
+SELECT * FROM html WHERE url in (select url from uritemplate 
+    where template="https://play.google.com/store/apps/details?id={pname}&hl={lang}" 
+    and pname=@pname and lang=@lang) 
+    AND xpath="//div[@class='info-container']//button[@class='price buy']/span[2]|//div[@class='info-container']//a[@class='document-subtitle category']"
