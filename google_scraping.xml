@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<table xmlns="http://query.yahooapis.com/v1/schema/table.xsd">  
+  <meta>      
+    <sampleQuery>SELECT * FROM {table} where pname = com.mobeedom.android.justinstalled and lang = it;</sampleQuery>      
+    <author>MobeedoM</author>  
+    <documentationURL></documentationURL>  
+    <description>A YQL wrapper around the Google Play apps data.</description>  
+  </meta>  
+  <bindings>  
+    <select itemPath="query" produces="XML">  
+      <urls>  
+        <url>http://query.yahooapis.com/v1/public/yql/mobeedom/query_google?lang={lang}</url>  
+      </urls>  
+      <inputs>  
+        <key id="lang" type="xs:string" paramType="path" />  
+        <key id="pname" type="xs:string" paramType="query" />  
+      </inputs>  
+    </select>  
+  </bindings>  
+</table>
