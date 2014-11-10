@@ -10,4 +10,4 @@ days_before_share=4
 force_update=38
 please_action=0
 msg=
-help_url=https://www.youtube.com/watch?v=nucEEKDC67w
+help_url=https://www.youtube.com/watch?v=8Hwqivy4vXE&feature=youtu.be
