@@ -10,6 +10,7 @@ days_before_share=4
 force_update=38
 please_action=0
 msg=
+url=http://www.mobeedom.com
 help_url=https://www.youtube.com/watch?v=8Hwqivy4vXE
 GA_PROPERTY_ID=XXUA-35230763-5
 GA_PROPERTY_ID_WIDGET=XXUA-35230763-6
