@@ -7,6 +7,7 @@ days_before_ads=5
 interstitials_freq=5
 days_before_rate=3
 days_before_share=4
+days_before_share_again=2
 force_update=38
 please_action=0
 msg=
