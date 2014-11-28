@@ -1,6 +1,6 @@
 ad=0
 url=http://www.mobeedom.com
-force_update=38
+force_update=47
 launch_cnt_before_ads=50
 help_url=https://www.youtube.com/watch?v=nucEEKDC67w
 please_action=0
