@@ -1,7 +1,7 @@
 ad=0
 interstitials=0
-launch_cnt_before_ads=5
-launch_cnt_before_interstitials=10
+launch_cnt_before_ads=10
+launch_cnt_before_interstitials=20
 days_before_interstitials=8
 days_before_ads=5
 interstitials_freq=10
