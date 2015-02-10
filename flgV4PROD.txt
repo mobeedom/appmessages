@@ -1,11 +1,11 @@
-ad=1
-interstitials=1
+ad=0
+interstitials=0
 launch_cnt_before_ads=5
 launch_cnt_before_interstitials=10
 days_before_interstitials=8
 days_before_ads=5
-interstitials_freq=2
-days_before_rate=5
+interstitials_freq=10
+days_before_rate=7
 days_before_share=4
 days_before_share_again=2
 force_update=47
