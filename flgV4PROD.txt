@@ -5,14 +5,14 @@ launch_cnt_before_interstitials=20
 days_before_interstitials=8
 days_before_ads=5
 interstitials_freq=10
-days_before_rate=10
-days_before_share=10
+days_before_rate=15
+days_before_share=15
 days_before_share_again=2
 force_update=47
 please_action=0
 package_name=com.mobeedom.android.jinaFS
 msg=
-help_url=https://www.youtube.com/watch?v=BU6-JY51riE
+help_url=https://www.youtube.com/watch?v=v51wkARVGr4
 url=http://goo.gl/NVxHlW
 GA_PROPERTY_ID=UA-35230763-5
 GA_PROPERTY_ID_WIDGET=UA-35230763-6
