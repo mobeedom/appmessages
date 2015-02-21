@@ -11,6 +11,7 @@ days_before_share_again=2
 force_update=47
 please_action=0
 msg=
+update_url=com.mobeedom.android.jinaFS
 help_url=https://www.youtube.com/watch?v=BU6-JY51riE
 url=http://goo.gl/NVxHlW
 GA_PROPERTY_ID=UA-35230763-5
