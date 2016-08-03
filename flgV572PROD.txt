@@ -15,7 +15,7 @@ please_action=0
 package_name=com.mobeedom.android.jinaFS
 msg=
 msgID=
-help_url=http://goo.gl/dhAeNN
+help_url=https://www.youtube.com/watch?v=eknPL4cnJKs
 url=http://goo.gl/NVxHlW
 GA_PROPERTY_ID=UA-35230763-5
 GA_PROPERTY_ID_WIDGET=UA-35230763-6
