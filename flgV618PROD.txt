@@ -16,6 +16,7 @@ package_name=com.mobeedom.android.jinaFS
 msg=
 msgID=
 help_url=https://youtu.be/q4VCL0zG7IE
+translate_url=https://www.localize.im/projects/v7
 url=http://goo.gl/NVxHlW
 GA_PROPERTY_ID=UA-35230763-5
 GA_PROPERTY_ID_WIDGET=UA-35230763-6
