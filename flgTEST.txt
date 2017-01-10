@@ -22,4 +22,4 @@ GA_PROPERTY_ID=UA-35230763-5
 GA_PROPERTY_ID_WIDGET=UA-35230763-6
 AD_UNIT_INTERSTITIALS=ca-app-pub-3733798773649469/5567525036
 AD_UNIT_BANNER1=ca-app-pub-3733798773649469/3121663436
-plugins={"plugins":[{"label":"JPlugin 1","appId":"com.appo1","iconUrl":"http://com.mobeedom.1","enabled":true},{"label":"Plugin 2","appId":"com.mobeedom.2","iconUrl":"http://com.mobeedom.2","enabled":false},{"label":"Plugin 3","appId":"com.mobeedom.3","iconUrl":"http://com.mobeedom.3","enabled":false}]}
+plugins={"plugins":[{"label":"JPlugin 1","appId":"com.mobeedom.android.test.trivialdrivesample","iconUrl":"http://com.mobeedom.1","enabled":true},{"label":"Plugin 2","appId":"com.mobeedom.2","iconUrl":"http://com.mobeedom.2","enabled":false},{"label":"Plugin 3","appId":"com.mobeedom.3","iconUrl":"http://com.mobeedom.3","enabled":false}]}
